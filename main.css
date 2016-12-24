@@ -1,0 +1,12 @@
+* {margin:0;padding:0}
+.fix{overflow:hidden;}
+table, th, td{border: 2px solid black;}
+table{border-collapse:collapse;margin-top:30px;margin-left:auto;margin-right:auto;}
+td{text-align:center;}
+body {background:url(images/img03.jpg) ; }
+.balancerow{background:url(images/bg01.png);}
+.mar{color:green;background-color:#130d05;padding:5px;text-transform:uppercase;font-size:30px;}
+.main{width:1099px;background-color:#FFF8DC;margin-left:auto;margin-right:auto}
+h1.t11{padding-top:30px;}
+h1.t22{padding-top:30px;}
+table.t111{margin-left:auto;}
